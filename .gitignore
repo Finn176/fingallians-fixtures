@@ -1,0 +1,6 @@
+fingallians_results.xlsx
+last_run.log
+__pycache__/
+*.pyc
+.env
+.DS_Store
